@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { Blog, Home, Page, Room } from "./Menu";
+import { Blog, Page, Room } from "./Menu";
 import DropDown from "./DropDown";
 import Link from "next/link";
 
@@ -50,12 +50,8 @@ export default function HeaderOne({ variant }) {
                   className="mobile__menu"
                   style={{ display: `${mobileToggle ? "block" : "none"}` }}
                 >
-                  <li className="menu-item-has-children">
+                  <li>
                     <Link href="/">Home</Link>
-                    {/* <DropDown /> */}
-                    {/* <ul className="sub-menu">
-                      <Home />
-                    </ul> */}
                   </li>
                   <li className="menu-item-has-children">
                     <a href="#">Pages</a>

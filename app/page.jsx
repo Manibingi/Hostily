@@ -24,8 +24,8 @@ export default function Home() {
       <Services />
       <Feature />
       <Testimonial />
-      <Blog />
       <Contactcontainer />
+      <Blog />
       <Footer />
       <ScrollToTopButton />
     </>
