@@ -1,7 +1,7 @@
 "use client";
 
 import React, { useEffect, useState } from "react";
-import { Blog, Home, Page, Room } from "./Menu";
+import { Blog, Page, Room } from "./Menu";
 import DropDown from "./DropDown";
 import Link from "next/link";
 

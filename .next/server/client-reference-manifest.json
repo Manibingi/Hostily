@@ -48,6 +48,22 @@
         "async": false
       }
     },
+    "(app-client)/./node_modules/next/dist/client/link.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
+    "(app-client)/./node_modules/next/dist/client/image-component.js": {
+      "*": {
+        "id": "(sc_client)/./node_modules/next/dist/client/image-component.js",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
+    },
     "(app-client)/./app/accommodations/accommodations.jsx": {
       "*": {
         "id": "(sc_client)/./app/accommodations/accommodations.jsx",
@@ -72,14 +88,6 @@
         "async": false
       }
     },
-    "(app-client)/./node_modules/next/dist/client/link.js": {
-      "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/link.js",
-        "name": "*",
-        "chunks": [],
-        "async": false
-      }
-    },
     "(app-client)/./app/deluxe/deluxe.jsx": {
       "*": {
         "id": "(sc_client)/./app/deluxe/deluxe.jsx",
@@ -96,9 +104,9 @@
         "async": false
       }
     },
-    "(app-client)/./node_modules/next/dist/client/image-component.js": {
+    "(app-client)/./app/header/HeaderOne.jsx": {
       "*": {
-        "id": "(sc_client)/./node_modules/next/dist/client/image-component.js",
+        "id": "(sc_client)/./app/header/HeaderOne.jsx",
         "name": "*",
         "chunks": [],
         "async": false
@@ -128,17 +136,17 @@
         "async": false
       }
     },
-    "(app-client)/./app/header/HeaderOne.jsx": {
+    "(app-client)/./components/seo.jsx": {
       "*": {
-        "id": "(sc_client)/./app/header/HeaderOne.jsx",
+        "id": "(sc_client)/./components/seo.jsx",
         "name": "*",
         "chunks": [],
         "async": false
       }
     },
-    "(app-client)/./components/seo.jsx": {
+    "(app-client)/./app/about/page.jsx": {
       "*": {
-        "id": "(sc_client)/./components/seo.jsx",
+        "id": "(sc_client)/./app/about/page.jsx",
         "name": "*",
         "chunks": [],
         "async": false
@@ -235,6 +243,38 @@
       ],
       "async": false
     },
+    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\node_modules\\next\\dist\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\node_modules\\next\\dist\\esm\\client\\link.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/link.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\node_modules\\next\\dist\\client\\image-component.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image-component.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
+    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\node_modules\\next\\dist\\esm\\client\\image-component.js": {
+      "id": "(app-client)/./node_modules/next/dist/client/image-component.js",
+      "name": "*",
+      "chunks": [
+        "app/page:static/chunks/app/page.js"
+      ],
+      "async": false
+    },
     "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\app\\accommodations\\accommodations.jsx": {
       "id": "(app-client)/./app/accommodations/accommodations.jsx",
       "name": "*",
@@ -259,22 +299,6 @@
       ],
       "async": false
     },
-    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\node_modules\\next\\dist\\client\\link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\node_modules\\next\\dist\\esm\\client\\link.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/link.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
     "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\app\\deluxe\\deluxe.jsx": {
       "id": "(app-client)/./app/deluxe/deluxe.jsx",
       "name": "*",
@@ -291,16 +315,8 @@
       ],
       "async": false
     },
-    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\node_modules\\next\\dist\\client\\image-component.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image-component.js",
-      "name": "*",
-      "chunks": [
-        "app/page:static/chunks/app/page.js"
-      ],
-      "async": false
-    },
-    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\node_modules\\next\\dist\\esm\\client\\image-component.js": {
-      "id": "(app-client)/./node_modules/next/dist/client/image-component.js",
+    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\app\\header\\HeaderOne.jsx": {
+      "id": "(app-client)/./app/header/HeaderOne.jsx",
       "name": "*",
       "chunks": [
         "app/page:static/chunks/app/page.js"
@@ -331,19 +347,19 @@
       ],
       "async": false
     },
-    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\app\\header\\HeaderOne.jsx": {
-      "id": "(app-client)/./app/header/HeaderOne.jsx",
+    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\components\\seo.jsx": {
+      "id": "(app-client)/./components/seo.jsx",
       "name": "*",
       "chunks": [
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
     },
-    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\components\\seo.jsx": {
-      "id": "(app-client)/./components/seo.jsx",
+    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\app\\about\\page.jsx": {
+      "id": "(app-client)/./app/about/page.jsx",
       "name": "*",
       "chunks": [
-        "app/page:static/chunks/app/page.js"
+        "app/about/page:static/chunks/app/about/page.js"
       ],
       "async": false
     }
@@ -354,6 +370,9 @@
     ],
     "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\app\\page": [
       "static/css/app/page.css"
+    ],
+    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\app\\about\\page": [
+      "static/css/app/about/page.css"
     ]
   }
 }
