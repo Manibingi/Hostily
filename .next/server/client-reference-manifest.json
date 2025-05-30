@@ -159,6 +159,14 @@
         "chunks": [],
         "async": false
       }
+    },
+    "(app-client)/./app/home-two/page.jsx": {
+      "*": {
+        "id": "(sc_client)/./app/home-two/page.jsx",
+        "name": "*",
+        "chunks": [],
+        "async": false
+      }
     }
   },
   "edgeSSRModuleMapping": {},
@@ -378,6 +386,14 @@
         "app/home-three/page:static/chunks/app/home-three/page.js"
       ],
       "async": false
+    },
+    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\app\\home-two\\page.jsx": {
+      "id": "(app-client)/./app/home-two/page.jsx",
+      "name": "*",
+      "chunks": [
+        "app/home-two/page:static/chunks/app/home-two/page.js"
+      ],
+      "async": false
     }
   },
   "entryCSSFiles": {
@@ -392,6 +408,9 @@
     ],
     "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\app\\home-three\\page": [
       "static/css/app/home-three/page.css"
+    ],
+    "E:\\Freelancing\\luxury-hotel-react-nextjs-template-2025-04-08-06-05-13-utc\\hostily-react-with-nextjs\\main-file\\app\\home-two\\page": [
+      "static/css/app/home-two/page.css"
     ]
   }
 }
