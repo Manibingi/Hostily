@@ -17,6 +17,12 @@
       "static/chunks/main-app.js",
       "static/css/app/about/page.css",
       "static/chunks/app/about/page.js"
+    ],
+    "/home-three/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/home-three/page.css",
+      "static/chunks/app/home-three/page.js"
     ]
   }
 }
